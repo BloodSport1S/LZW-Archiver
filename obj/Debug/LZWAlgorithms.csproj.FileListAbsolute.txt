@@ -1,0 +1,80 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\bin\Debug\LZWAlgorithms.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\bin\Debug\LZWAlgorithms.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\LZWAlgorithms\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\bin\Debug\LZWAlgorithms.exe
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\bin\Debug\LZWAlgorithms.pdb
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+C:\Users\user\Desktop\LZW Compressor and Decompressor\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\bin\Debug\LZWAlgorithms.exe
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\bin\Debug\LZWAlgorithms.pdb
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.csprojResolveAssemblyReference.cache
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.MainForm.resources
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.GenerateResource.Cache
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.CoreCompileInputs.cache
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+D:\ВНТУ\безпека даних\lab3\C#\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\bin\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\bin\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.AssemblyReference.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.GenerateResource.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\lzwFilePacker-master\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\bin\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\bin\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.AssemblyReference.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.GenerateResource.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\obj\Debug\LZWAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\obj\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithms\obj\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\bin\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\bin\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.AssemblyReference.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.GenerateResource.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW algotirhm original\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.pdb
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.AssemblyReference.cache
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.GenerateResource.cache
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.exe
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.pdb
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\bin\Debug\LZWAlgorithms.exe
+C:\Users\rekru\OneDrive\Рабочий стол\LZW Archivator\LZWAlgorithm\bin\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\bin\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\bin\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.AssemblyReference.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.GenerateResource.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW\LZW Archivator\LZWAlgorithm\obj\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\bin\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\bin\Debug\LZWAlgorithms.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.AssemblyReference.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\obj\Debug\LZWAlgorithms.MainForm.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\obj\Debug\LZWAlgorithms.Properties.Resources.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.GenerateResource.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\obj\Debug\LZWAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\obj\Debug\LZWAlgorithms.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\LZW Algotirhm\LZWAlgorithm\obj\Debug\LZWAlgorithms.pdb
